@@ -1,0 +1,6 @@
+/*CSS code which works on Safary macOS browser*/
+@supports (hanging-punctuation: first) and (font: -apple-system-body) and (-webkit-appearance: none) {
+    .style {
+      top: 100px;
+    }
+  } 
